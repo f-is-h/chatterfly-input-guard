@@ -1,0 +1,5 @@
+.DS_Store
+*.app/
+guard.log*
+build/
+dist/
